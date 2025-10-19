@@ -38,7 +38,7 @@ Beberapa kolom penting:
 ---
 
 ## 🧮 Hasil
-- **Model terbaik:** Random Forest Regressor  
+- **Model terbaik:** Random Forest  
 - **Alasan:** Memiliki nilai RMSE terkecil dibandingkan model lainnya.  
 - **Fitur paling berpengaruh:**  
   `Monthly Premium Auto`, `Income`, `Months Since Policy Inception`, dan `Total Claim Amount`.
