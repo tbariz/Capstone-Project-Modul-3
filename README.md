@@ -45,15 +45,6 @@ Beberapa kolom penting:
 
 ---
 
-## 📦 File yang Disertakan
-| File | Deskripsi |
-|------|------------|
-| `Capstone Project Module 3.ipynb` | Notebook utama berisi seluruh proses analisis dan modeling |
-| `model_capstone_project_modul3.pkl` | Model final yang disimpan menggunakan Pickle |
-| `data_customer_lifetime_value.csv` | Dataset yang digunakan untuk pelatihan model |
-
----
-
 ## 🧾 Kesimpulan
 Model Random Forest berhasil memberikan hasil terbaik dalam memprediksi nilai **Customer Lifetime Value**, dengan performa yang stabil dan error terkecil berdasarkan RMSE.  
 Model ini dapat digunakan untuk memperkirakan nilai pelanggan baru dengan karakteristik serupa, sehingga membantu strategi bisnis dalam meningkatkan retensi pelanggan.
